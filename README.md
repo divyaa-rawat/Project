@@ -13,34 +13,34 @@ This dashboard is a handy tool, showing us various aspects of the company and gi
 
 ### Insights Generated
 
-Finance Insights: Take a closer look at how the company is doing financially by exploring the details of profit and loss performance.
+1. Finance Insights: Take a closer look at how the company is doing financially by exploring the details of profit and loss performance.
 
-Sales Insights: Gain a better understanding of customer performance as we break down the sales data for a more comprehensive view.
+2. Sales Insights: Gain a better understanding of customer performance as we break down the sales data for a more comprehensive view.
 
-Marketing Insights: Delve into how our products are performing and discover valuable insights to enhance marketing strategies.
+3. Marketing Insights: Delve into how our products are performing and discover valuable insights to enhance marketing strategies.
 
-Supply Chain Insights: Keep track of demand and supply trends to ensure a smooth flow of operations and meet customer needs effectively.
+4. Supply Chain Insights: Keep track of demand and supply trends to ensure a smooth flow of operations and meet customer needs effectively.
 
-Executive Insights: Get the big picture of how the entire company is performing by exploring key insights and metrics across various departments.
+5. Executive Insights: Get the big picture of how the entire company is performing by exploring key insights and metrics across various departments.
 
 ### Learnings from the project
 
 
-Understand P&L stuff, look at numbers, and figure out how things are going.
+* Understand P&L stuff, look at numbers, and figure out how things are going.
 
-Use special measurements (KPIs) to see how well we're doing in Finance, Sales, Marketing, and Supply Chain.
+* Use special measurements (KPIs) to see how well we're doing in Finance, Sales, Marketing, and Supply Chain.
 
-Learn a lot about the consumer goods world, figuring out trends, what customers like, and how the industry works.
+* Learn a lot about the consumer goods world, figuring out trends, what customers like, and how the industry works.
 
-Get better at talking and working with important people (stakeholder management).
+* Get better at talking and working with important people (stakeholder management).
 
-Pull out data easily using MySQL and Power Query, making sure all the right info is there.
+* Pull out data easily using MySQL and Power Query, making sure all the right info is there.
 
-Use smart tricks with data (modeling and DAX), making it easier to understand and show.
+* Use smart tricks with data (modeling and DAX), making it easier to understand and show.
 
-Make sure all the data is right in Excel, checking and double-checking.
+* Make sure all the data is right in Excel, checking and double-checking.
 
-Make useful reports in Power BI, showing important stuff in a clear way for better decisions.
+* Make useful reports in Power BI, showing important stuff in a clear way for better decisions.
 
 
 
